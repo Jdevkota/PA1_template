@@ -1,1 +1,2 @@
-# PA1_template
+# Coursera_Assignment
+My assignment from Coursera
